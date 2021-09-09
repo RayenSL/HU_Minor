@@ -1,8 +1,11 @@
 # HU_Minor
-A Repository for experimental use 
+
+A Repository for experimental use
 
 ## Leerdoelen
-- Het kunnen creëren van een client-side Applicatie die uiteindelijk in de cloud deployed kan worden (AWS in het specifiek).
+
+- Het kunnen creëren van een client-side Applicatie die uiteindelijk in de cloud deployed kan worden (AWS in het
+  specifiek).
 - Het kunnen maken van AWS Lamda's (En genoeg kennis hierover opdoen, zodat dit in verschillende talen kan gebeuren?).
 - Het kunnen maken van correcte integratie testen op een manier dat dit makkelijk in de toekomst kan worden uitgevoerd.
 - Kennis opdoen over de mogelijkheden binnen AWS en de verschillende platformen binnen AWS.
