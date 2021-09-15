@@ -12,6 +12,7 @@ class AssignmentApplicationTests {
         System.out.println("@BeforeAll");
     }
 
+
     @Test
     void contextLoads() {
     }
